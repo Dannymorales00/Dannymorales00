@@ -7,9 +7,9 @@
 <h3 align="center">y me apasiona todo el mundo relacionado con la tecnología</h3>
 
 
-- 🔭 Actualmente estoy finalizando la carrera de ingeniería en tecnología de la información.
+- 🔭 Actualmente soy ingeniero en tecnología de la información.
 
-- 👨‍💻 Todos mis proyectos están aquí, algunos fueron desarrollados durante la carrera, otros fueron desarrollados por hobbie.
+- 👨‍💻 Todos mis proyectos están aquí, unos son privados y otros publicos, algunos fueron desarrollados durante la carrera, otros fueron desarrollados por proyectos freelance o hobbie.
 
 - 📫 Puede contactarme por **dannimoralezquiros@gmail.com**
 
